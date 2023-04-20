@@ -1,0 +1,14 @@
+body {
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+section {
+  background-color: #DCDCDC;
+  border: solid 1px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+}
